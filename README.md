@@ -4,3 +4,5 @@
 - I have deployed this app on Heroku.
 - There are a few bugs that I need to fix. If you're interested in collaborating and making it stand for public facing do message!
 - Please visit <a href="https://vast-island-80685.herokuapp.com/"> Keeper App </a>
+
+[![HitCount](http://hits.dwyl.com/sahiljoshi515/Keeper_App.svg)](http://hits.dwyl.com/sahiljoshi515/Keeper_App)
